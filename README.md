@@ -10,10 +10,10 @@ $$x^{(4)} = f(x, \dot{x}, \ddot{x}, \dddot{x}, t)$$
 
 ### 1.1 State-Space Dimensional Collapse
 To resolve the Hidden Truth, one must map the scalar evolution into the $\mathbb{R}^4$ manifold. We define the state vector $\mathbf{y}$ as:
-$$\mathbf{y} = \begin{bmatrix} y_1 \ y_2 \ y_3 \ y_4 \end{bmatrix} = \begin{bmatrix} x \ \dot{x} \ \ddot{x} \ \dddot{x} \end{bmatrix}$$
+$$\mathbf{y} = \begin{bmatrix} y_1 \\ y_2 \\ y_3 \\ y_4 \end{bmatrix} = \begin{bmatrix} x \\ \dot{x} \\ \ddot{x} \\ \dddot{x} \end{bmatrix}$$
 
 The temporal evolution of the manifold is then dictated by the first-order system:
-$$\dot{\mathbf{y}} = \begin{bmatrix} \dot{y}_1 \ \dot{y}_2 \ \dot{y}_3 \ \dot{y}_4 \end{bmatrix} = \begin{bmatrix} y_2 \ y_3 \ y_4 \ f(y_1, y_2, y_3, y_4, t) \end{bmatrix}$$
+$$\dot{\mathbf{y}} = \begin{bmatrix} \dot{y}_1 \\ \dot{y}_2 \\ \dot{y}_3 \\ \dot{y}_4 \end{bmatrix} = \begin{bmatrix} y_2 \\ y_3 \\ y_4 \\ f(y_1, y_2, y_3, y_4, t) \end{bmatrix}$$
 
 ### 1.2 Temporal Propagation Algorithms
 
