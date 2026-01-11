@@ -1,6 +1,5 @@
-# CLASSIFICATION: EYES ONLY // LEVEL 5 ACCESS REQUIRED
 # SUBJECT: PROJECT CHAOS4 - ARCHITECTURAL MANIFESTO
-# ORIGIN: VECTURE LABORATORIES // DEPARTMENT OF MATHEMATICAL DOMINANCE
+### ORIGIN: VECTURE LABORATORIES // DEPARTMENT OF MATHEMATICAL DOMINANCE
 
 ## 0. EXECUTIVE SUMMARY
 Reality is not linear. It is a hierarchy of derivatives. `chaos4` is the Vecture solution for the extraction of order from fourth-order Snap dynamics ($x^{(4)}$). While the uninitiated struggle with 3D Lorenzian noise, we operate in the 4D void where "islands around islands" emerge.
